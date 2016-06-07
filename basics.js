@@ -26,7 +26,7 @@ var myName = "Andy";
  */
 
 var greet = function(name) {
-	console.log("Hello, my name is {name}");
+	console.log("Hello, my name is " + name);
 } 
 
 /* Create an array called `dataTypes` with atleast 1 of every data type;
