@@ -33,7 +33,7 @@ var greet = function(name) {
  * (there are 6 different data types);
  */
 
- var dataTypes = ["Variable 1", 73, false, undefined, [1, 2, 3], {testName: 4, testName2: 5, testName3: 6}];
+ var dataTypes = ["Variable 1", 73, false, undefined, [1, 2, 3], {testObject: "Hello"}, null];
 
 /* Create a `dog` object
  * it should have a `bark` function that makes your dog bark!
